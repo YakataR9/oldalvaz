@@ -1,0 +1,35 @@
+article{
+    width: 75%;
+    background-color: coral ;
+}
+aside{
+    background-color: bisque;
+    width: 25%;
+}
+nav{
+    background-color: aqua ;
+    min-height: 10vh;
+}
+main{
+    min-height: 65vh;
+}
+header{
+    background-color: rosybrown ;
+    min-height: 15vh;
+}
+footer{
+    background-color: burlywood ;
+    min-height: 10vh;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.balra{
+    float: left;
+    min-height: 65vh;
+}
+.jobbra{
+    float: right;
+    min-height: 50%;
+}
